@@ -23,8 +23,9 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-text-1 {
+    width: auto;
     margin-top: -21px;
-    margin-right: 979px;
+    margin-right: 859px;
   }
 
   .u-section-1 .u-text-2 {
@@ -34,7 +35,7 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-text-1 {
-    margin-right: 869px;
+    margin-right: 619px;
     margin-left: -22px;
   }
 
@@ -45,7 +46,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-text-1 {
-    margin-right: 779px;
+    margin-right: 529px;
     margin-left: -16px;
   }
 
@@ -56,7 +57,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    margin-right: 679px;
+    margin-right: 227px;
     margin-left: -10px;
   }
 

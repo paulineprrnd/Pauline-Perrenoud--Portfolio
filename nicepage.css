@@ -31845,11 +31845,6 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 92px;
   }
 
-  .u-header .u-image-1 {
-    width: 63px;
-    height: 32px;
-  }
-
   .u-header .u-social-icons-1 {
     margin-top: -33px;
   }
@@ -31859,6 +31854,11 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
+  .u-header .u-image-1 {
+    width: 63px;
+    height: 32px;
+  }
+
   .u-header .u-menu-1 {
     margin-top: 20px;
     margin-right: 0;
