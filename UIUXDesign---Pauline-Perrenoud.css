@@ -234,7 +234,7 @@
   font-weight: 700;
   font-size: 2.3125rem;
   line-height: 1.2;
-  margin: -366px 0 0;
+  margin: -366px -3px 0 3px;
 }
 
 .u-section-3 .u-text-2 {
@@ -276,6 +276,8 @@
 
   .u-section-3 .u-text-1 {
     margin-top: -442px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-video-1 {
@@ -370,7 +372,7 @@
     min-height: 332px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 932px;
+  min-height: 957px;
 }
 
 .u-section-4 .u-shape-1 {
@@ -437,11 +439,11 @@
   font-weight: 700;
   font-size: 2.3125rem;
   line-height: 1.2;
-  margin: -362px 286px 0 632px;
+  margin: -362px 296px 0 622px;
 }
 
 .u-section-4 .u-text-2 {
-  margin: 7px 41px 0 632px;
+  margin: 7px 51px 0 622px;
 }
 
 .u-section-4 .u-btn-1 {
