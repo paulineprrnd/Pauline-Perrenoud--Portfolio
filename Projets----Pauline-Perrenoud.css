@@ -17,7 +17,7 @@
 .u-section-1 .u-text-1 {
   animation-duration: 1000ms;
   font-size: 12.5rem;
-  margin: -230px auto 0;
+  margin: -230px 304px 0;
 }
 
 .u-section-1 .u-shape-3 {
@@ -39,6 +39,11 @@
 
   .u-section-1 .u-shape-2 {
     margin-right: calc(((100% - 940px) / 2) + 272px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 204px;
+    margin-right: 204px;
   }
 
   .u-section-1 .u-shape-3 {
@@ -95,7 +100,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-right: auto;
+    margin-right: 4px;
     margin-left: calc(((100% - 540px) / 2) + 112px);
   }
 
